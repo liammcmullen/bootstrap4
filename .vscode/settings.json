@@ -1,3 +1,4 @@
 {
-    "appService.deploySubpath": ""
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b749372b-0cbe-437e-9042-94ac43b63e11/resourceGroups/amendo/providers/Microsoft.Web/sites/vscode"
 }
