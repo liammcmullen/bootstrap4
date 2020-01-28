@@ -1,4 +1,3 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/b749372b-0cbe-437e-9042-94ac43b63e11/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/bootstrap4",
     "appService.deploySubpath": ""
 }
